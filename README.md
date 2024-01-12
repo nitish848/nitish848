@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Salesforce**
 
-- 💬 Ask me about **React, Salesforce, AWS, GCP, and Azurw**
+- 💬 Ask me about **React, Salesforce, AWS, GCP, and Azure**
 
 - 📫 How to reach me **nitishrana848@gmail.com**
 
